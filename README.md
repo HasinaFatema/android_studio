@@ -22,4 +22,5 @@ Layout with alignment and arrangement
 Day_3----july 5
 <br>
 UI elements
+<br>
 <img src="Application_UI/Screenshot_UI.png" alt="Initial Appearance" width="220" height="410">
