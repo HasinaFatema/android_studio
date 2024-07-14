@@ -33,4 +33,3 @@ UI Elements continued
 <br>
 REPLICA
 <br>
-<img src="Application_Replica/Screenshot_Replica.png" alt="Initial Appearance" width="220" height="410">
