@@ -9,4 +9,4 @@ This contain code of my first program in physical device
 <br>
 AppLifecycle
 <br>
-<img src="Application_applifecycle/Screenshot_AppLifecycle.png" alt="Initial Appearance" width="220" height="410">
+Text and Modifiers applied
