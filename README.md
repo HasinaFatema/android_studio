@@ -18,3 +18,8 @@ Day_2---july 4
 Layout with alignment and arrangement
 <br>
 <img src="Application_layout/Screenshot_Day2.png" alt="Initial Appearance" width="220" height="410">
+<br>
+Day_3----july 5
+<br>
+UI elements
+<img src="Application_UI/Screenshot_UI.png" alt="Initial Appearance" width="220" height="410">
