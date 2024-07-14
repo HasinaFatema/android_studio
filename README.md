@@ -24,3 +24,12 @@ Day_3----july 5
 UI elements
 <br>
 <img src="Application_UI/Screenshot_UI.png" alt="Initial Appearance" width="220" height="410">
+<br>
+Day_4----july 6
+<br>
+UI Elements continued
+<br>
+<img src="Application_Ui2/Screenshot_task.png" alt="Initial Appearance" width="220" height="410">
+<br>
+REPLICA
+<br>
