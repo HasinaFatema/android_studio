@@ -1,12 +1,6 @@
 # android_studio
-This contain code of my first program in emulator
+This contains code of app development
 <br>
-<img src="AndroidApplication_1/Screenshot_emulator.png" alt="Initial Appearance" width="220" height="410">
+Day_1---july 3
 <br>
-This contain code of my first program in physical device
-<br>
-<img src="AndroidApplication_1/Screenshot_physicaldevice.png" alt="Initial Appearance" width="220" height="410">
-<br>
-AppLifecycle
-<br>
-Text and Modifiers applied
+Day_2---july 4
