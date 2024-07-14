@@ -1,2 +1,3 @@
 # android_studio
-This contains code of app development
+This contain code of my first program
+This contains code of lifecycle app development
