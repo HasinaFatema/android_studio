@@ -6,3 +6,7 @@ This contain code of my first program in emulator
 This contain code of my first program in physical device
 <br>
 <img src="AndroidApplication_1/Screenshot_physicaldevice.png" alt="Initial Appearance" width="220" height="410">
+<br>
+AppLifecycle
+<br>
+Text and Modifiers applied
