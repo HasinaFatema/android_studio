@@ -45,4 +45,6 @@ state management,navigation,list
 <img src="Application_112/Screenshot_4.png" alt="Initial Appearance" width="220" height="410">
 <img src="Application_112/Screenshot_5.png" alt="Initial Appearance" width="220" height="410">
 <br>
+Day_12---july9
 <br>
+MVVM implementation
