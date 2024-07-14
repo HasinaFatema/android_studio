@@ -33,6 +33,8 @@ UI Elements continued
 <br>
 REPLICA
 <br>
+Day_11---july8
+<br>
 state management,navigation,list
 <br>
 <img src="Application_112/Screenshot_1.png" alt="Initial Appearance" width="220" height="410">
